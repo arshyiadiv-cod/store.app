@@ -3,7 +3,6 @@ body {
   margin: 0;
 }
 
-/* نوار بالا و پایین */
 body::before,
 body::after {
   content: "";
@@ -48,3 +47,4 @@ body::after {
   color: #e50d0d;
   transform: scale(1.1);
 }
+
